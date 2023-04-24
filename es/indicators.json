@@ -14,6 +14,14 @@
           "status": "notstarted"
         },
         {
+          "id": "1-1-1__alt",
+          "title": "global_indicators.1-1-1__alt-title",
+          "description": "",
+          "keywords": "",
+          "href": "/open-sdg-site/es/1-1-1__alt",
+          "status": "notstarted"
+        },
+        {
           "id": "1-2-1",
           "title": "Proporción de la población que vive por debajo del umbral nacional de pobreza, desglosada por sexo y edad",
           "description": "",
@@ -100,6 +108,14 @@
           "keywords": "",
           "href": "/open-sdg-site/es/1-a-2",
           "status": "notstarted"
+        },
+        {
+          "id": "1-a-3",
+          "title": "Suma del total de las subvenciones y asignaciones no generadoras de deuda dedicadas directamente a programas de reducción de la pobreza en proporción al PIB",
+          "description": "",
+          "keywords": "",
+          "href": "/open-sdg-site/es/1-a-3",
+          "status": "complete"
         },
         {
           "id": "1-b-1",
@@ -942,6 +958,14 @@
           "status": "notstarted"
         },
         {
+          "id": "8-9-2",
+          "title": "Proporción de empleos en el sector del turismo sostenible respecto del total de empleos del turismo",
+          "description": "",
+          "keywords": "",
+          "href": "/open-sdg-site/es/8-9-2",
+          "status": "complete"
+        },
+        {
           "id": "8-10-1",
           "title": "a) Número de sucursales de bancos comerciales por cada 100.000 adultos y b) número de cajeros automáticos por cada 100.000 adultos",
           "description": "",
@@ -1324,6 +1348,14 @@
           "keywords": "",
           "href": "/open-sdg-site/es/11-b-2",
           "status": "notstarted"
+        },
+        {
+          "id": "11-c-1",
+          "title": "Proporción del apoyo financiero a los países menos adelantados que se asigna a la construcción y el reacondicionamiento con materiales locales de edificios sostenibles, resilientes y eficientes en el uso de recursos",
+          "description": "",
+          "keywords": "",
+          "href": "/open-sdg-site/es/11-c-1",
+          "status": "complete"
         }]
     }
   },
@@ -1492,6 +1524,14 @@
           "keywords": "",
           "href": "/open-sdg-site/es/13-3-1",
           "status": "notstarted"
+        },
+        {
+          "id": "13-3-2",
+          "title": "Número de países que han comunicado una mayor creación de capacidad institucional, sistémica e individual para implementar actividades de adaptación, mitigación y transferencia de tecnología, y medidas de desarrollo",
+          "description": "",
+          "keywords": "",
+          "href": "/open-sdg-site/es/13-3-2",
+          "status": "complete"
         },
         {
           "id": "13-a-1",
@@ -1988,6 +2028,14 @@
           "keywords": "",
           "href": "/open-sdg-site/es/17-6-1",
           "status": "notstarted"
+        },
+        {
+          "id": "17-6-2",
+          "title": "Número de abonados a Internet de banda ancha fija por cada 100 habitantes, desglosado por velocidad",
+          "description": "",
+          "keywords": "",
+          "href": "/open-sdg-site/es/17-6-2",
+          "status": "complete"
         },
         {
           "id": "17-7-1",
