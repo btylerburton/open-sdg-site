@@ -26,6 +26,12 @@ plugins:
   - jekyll-remote-theme
   - jekyll-open-sdg-plugins
 
+remote_data_prefix: 'https://btylerburton.github.io/open-sdg-data'
+
+languages:
+  - en
+  - es
+
 # Exclude some files/folders.
 exclude:
   - vendor
